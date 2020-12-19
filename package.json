@@ -1,0 +1,29 @@
+{
+  "name": "neu-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Pax",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "cheerio": "^1.0.0-rc.3",
+    "common-tags": "^1.8.0",
+    "discord-akairo": "^8.1.0",
+    "discord-math": "^1.0.5",
+    "discord.js": "^12.4.1",
+    "ffmpeg-static": "^4.2.3",
+    "opusscript": "0.0.7",
+    "relevant-urban": "^2.0.0",
+    "request": "^2.88.2",
+    "strip-indent": "^3.0.0",
+    "urban": "^0.3.2",
+    "youtube-search": "^1.1.4",
+    "yt-search": "^1.1.2",
+    "ytdl-core": "^2.1.7"
+  }
+}
